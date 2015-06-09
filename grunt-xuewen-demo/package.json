@@ -1,0 +1,25 @@
+{
+  "name": "CSC",
+  "version": "1.0.0",
+  "description": "前端技术",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuxuewen/frontendsample.git"
+  },
+  "author": "xuxuewen <xuxuewen@chexiang.com>",
+  "license": "www.chexiang.com",
+  "bugs": {
+    "url": "https://github.com/xuxuewen/frontendsample/issues"
+  },
+  "homepage": "https://github.com/xuxuewen/frontendsample",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1",
+    "grunt-open": "^0.2.3"
+  }
+}
